@@ -29,7 +29,7 @@
  | choco install chocolatey 
 ```
 
-#### | Image Ex:
+#### | Imagem Ex:
 
 <html>
    <img src='./image/Choco.png'>
@@ -38,14 +38,14 @@
 
 
 > ``
- " Caso não instale reinici o computador e tente novamente. " 
+ " Caso não instale reinicie o computador e tente novamente. " 
  ``
 
 <html>
    <br>
 </html>
 
-> # Agoran vamos instalar o Dart no cmd coloque:
+> # Agora vamos instalar o Dart no cmd coloque:
 
 ```cmd
  | choco install dart-sdk 
@@ -59,13 +59,13 @@
 </html>
 
 
-> `` " Caso não instale reinici o computador e tente novamente. " ``
+> `` " Caso não instale reinicie o computador e tente novamente. " ``
 
 <html>
    <br>
 </html>
 
-# Vamos Instalar o Dart no VSCode, no menu extenções digite Dart e instale a extenção:
+# Vamos Instalar o Dart no VSCode, no menu extenções digite Dart e instale a extensão:
 
 <html>
    <img src="./image/Extenções.png">
@@ -95,7 +95,7 @@ main(){
 </html>
 
 #### 2ª via terminal:
-#### no terminal você precisa colocar "dart NomeDoArquivo.dart, Ex:
+#### no terminal você precisa colocar "dart NomeDoArquivo.dart", Ex:
 <html>
    <img src="./image/Terminal .png">
 </html>
