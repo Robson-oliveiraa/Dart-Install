@@ -26,7 +26,7 @@
 > # Instalado o Choco, vamos instalar o Chocolatey no cmd coloque:
 
 ```cmd
- | choco install chocolatey 
+   choco install chocolatey 
 ```
 
 #### | Imagem Ex:
@@ -35,7 +35,6 @@
    <img src='./image/Choco.png'>
    <br>
 </html>
-
 
 > ``
  " Caso não instale reinicie o computador e tente novamente. " 
@@ -48,7 +47,7 @@
 > # Agora vamos instalar o Dart no cmd coloque:
 
 ```cmd
- | choco install dart-sdk 
+ choco install dart-sdk 
  ```
 
 #### | Image Ex:
