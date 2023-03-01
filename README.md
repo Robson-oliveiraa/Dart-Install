@@ -32,7 +32,7 @@
 #### | Image Ex:
 
 <html>
-   <img src='./image/Chocolatey.png'>
+   <img src='./image/Choco.png'>
    <br>
 </html>
 
