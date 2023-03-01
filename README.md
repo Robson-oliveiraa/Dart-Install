@@ -113,5 +113,5 @@ main(){
    <br>
 </html>
 
-#### Link do documneto utilizado nesse trabalho: <a taget="_blank" href="https://docs.chocolatey.org/en-us/choco/setup#more-install-options">chocolatey</a>
+#### Link do documentação utilizada nesse trabalho: <a taget="_blank" href="https://docs.chocolatey.org/en-us/choco/setup#more-install-options">chocolatey</a>
 ##### OBS: isso é um trabalho escolar
