@@ -65,7 +65,7 @@
    <br>
 </html>
 
-# Vamos Instalar o Dart no VSCode, no menu extenções digite Dart e instale a extensão:
+# Vamos Instalar o Dart no VSCode, no menu extensões digite Dart e instale a extensão:
 
 <html>
    <img src="./image/Extenções.png">
