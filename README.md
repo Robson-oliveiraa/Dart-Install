@@ -114,3 +114,11 @@ main(){
 
 #### Link do documentação utilizada nesse trabalho: <a taget="_blank" href="https://docs.chocolatey.org/en-us/choco/setup#more-install-options">chocolatey</a>
 ##### OBS: isso é um trabalho escolar
+
+<html>
+   <br>
+</html>
+
+###### Autor:
+
+[<img src="https://avatars.githubusercontent.com/u/121844106?s=400&u=d0edadfafd31cab184279b89e6a75efcac957c45&v=4" width=115><br><sub>Robson André</sub>](https://github.com/Robson-oliveiraa)
